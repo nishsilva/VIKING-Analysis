@@ -81,7 +81,7 @@ Figures
 ^^^^^^^
 
 Figure 1: VIKING vs GRACE correlation
-  **Nish_121125_VIKING_GRACE_Correlation_Bin_Filter.ipynb**
+  **Nish_121125_VIKING_GRACE_Correlation_Figure.ipynb**
 
 Figures 2 & 3: VIKING binned standard deviation figure(s)
   **Nish_021026_VIKING_Binned_Std_Figure.ipynb**
